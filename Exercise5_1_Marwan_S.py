@@ -1,0 +1,6 @@
+num1 = int(input("กรอกตัวเลข :\n "))
+num2 = int(input("กรอกตัวเลข :\n "))
+print(num1,"+",num2,"=",num1+num2)
+print(num1,"-",num2,"=",num1-num2)
+print(num1,"*",num2,"=",num1*num2)
+print(num1,"/",num2,"=",num1/num2)
